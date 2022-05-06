@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BankSystemTest.Data\BankSystemTest.Data.csproj" />
+    <ProjectReference Include="..\BankSystemTest.Domain\BankSystemTest.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
